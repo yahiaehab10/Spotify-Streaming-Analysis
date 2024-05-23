@@ -123,4 +123,4 @@ print("Logistic Regression Accuracy:", accuracy_lr)
 ```
 
 ## License
-This project was given by German International Univeristy
+This project was given and managed by German International Univeristy
